@@ -253,9 +253,7 @@ This repository contains a comprehensive list of all Core Java concepts, ideal f
 
 ---
 
-## 📚 License
 
-This repository is for educational and reference purposes.
 
 
 
