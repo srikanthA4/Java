@@ -5,6 +5,7 @@ git rm --cached -r *.class
 
 git commit -m "Added AddFiveNumbersDirect program"
 
+git pull
 
 git push origin main
 
