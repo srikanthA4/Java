@@ -1,5 +1,7 @@
 git add .
 
+git rm --cached -r *.class
+
 
 git commit -m "Added AddFiveNumbersDirect program"
 
